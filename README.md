@@ -7,7 +7,6 @@ Rest assured you will rest well.
 
 ### Places you can go 
 
-[Club Bed](https://casper.com/mattresses/casper-wave/).
 - [Club Bed](https://casper.com/mattresses/casper-wave/)  
 - [Weekend Do It](https://www.thrillist.com/travel/miami/the-best-long-weekend-destinations-near-miami)   
 - [Main Beaches](https://www.bahamasairtours.com/destination/pig-beach/)  
