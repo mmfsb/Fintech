@@ -20,6 +20,6 @@
 <h2> Places you can go </h2>
 <ul>
 <li> <a href="https://casper.com/mattresses/casper-wave/">Club Bed</a> </li> 
-<li> <a href="https://www.thrillist.com/travel/miami/the-best-long-weekend-destinations-near-miami">Weekend Do It</a></li>  
-<li> [Main Beaches](https://www.bahamasairtours.com/destination/pig-beach/) <a href="url">link text</a></li> 
+<li> <a href="https://www.thrillist.com/travel/miami/the-best-long-weekend-destinations-near-miami">Weekend Do It</a> </li>  
+<li> <a href="https://www.bahamasairtours.com/destination/pig-beach/">Main Beaches</a> </li> 
     </ul>
