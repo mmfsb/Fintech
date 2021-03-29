@@ -5,7 +5,7 @@
 <p>Rest assured you will rest well.</p>
 <h3>Places you can go</h3>
 <ul>
-  <li> <a href="https://casper.com/mattresses/casper-wave/" target="_blank">Club Bed</a> </li>
+  <li> <a href="https://casper.com/mattresses/casper-wave/" target="_blank">Club Bed Sleepyhead</a> </li>
   <li><a href="https://www.thrillist.com/travel/miami/the-best-long-weekend-destinations-near-miami" target="_blank">Weekend Do It<</a> </li>
   <a href="https://www.bahamasairtours.com/destination/pig-beach/" target="_blank">Main Beaches<</a> </li>>
 </ul>
